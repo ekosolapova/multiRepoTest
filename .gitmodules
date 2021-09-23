@@ -1,0 +1,3 @@
+[submodule "multirepotest"]
+	path = multirepotest
+	url = https://github.com/ekosolapova/multirepotest.git
