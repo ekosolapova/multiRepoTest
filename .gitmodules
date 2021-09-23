@@ -1,3 +1,6 @@
 [submodule "multirepotest"]
 	path = multirepotest
 	url = https://github.com/ekosolapova/multirepotest.git
+[submodule "openltestrepo"]
+	path = openltestrepo
+	url = https://github.com/ekosolapova/openltestrepo.git
