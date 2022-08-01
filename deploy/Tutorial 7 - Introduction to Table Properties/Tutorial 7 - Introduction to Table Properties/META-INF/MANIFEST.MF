@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-08-01T11:47:03.828261+03:00
+Created-By: OpenL WebStudio v.5.26.1-SNAPSHOT
+Implementation-Title: Tutorial 7 - Introduction to Table Properties
+Build-Branch: master
+Build-Number: 1545673acce47aea055f5b99aa48fad4367a2a61
+Implementation-Version: openl_1 openl_1-2022-05-26_12-14-49
+Built-By: DEFAULT
+
