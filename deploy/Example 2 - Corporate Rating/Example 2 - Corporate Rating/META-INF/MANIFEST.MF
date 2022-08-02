@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
-Build-Date: 2022-08-01T11:43:08.434568+03:00
+Build-Date: 2022-08-02T10:58:42.210486+02:00
 Created-By: OpenL WebStudio v.5.26.0
 Implementation-Title: Example 2 - Corporate Rating
 Build-Branch: master
 Build-Number: TEST-1
-Implementation-Version: DEFAULT-2022-07-08_16-52-03
+Implementation-Version: DEFAULT-2022-07-08_15-52-03
 Built-By: DEFAULT
 
