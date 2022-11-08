@@ -1,0 +1,9 @@
+<descriptors>
+  <descriptor>
+    <repositoryId>design</repositoryId>
+    <path>DESIGN/rules/SomeTransProject</path>
+    <projectName>SomeTransProject</projectName>
+    <branch>master</branch>
+    <projectVersion>1375f0ff5360ed0dc1ceefbd5b1927a81fad6d0d</projectVersion>
+  </descriptor>
+</descriptors>
