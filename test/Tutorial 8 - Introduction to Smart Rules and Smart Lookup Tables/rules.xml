@@ -1,0 +1,14 @@
+<project>
+    <name>Tutorial 8 - Introduction to Smart Rules and Smart Lookup Tables</name>
+    <comment>test234</comment>
+    <modules>
+        <module>
+            <name>Tutorial8 - Introduction to Smart Rules and Smart Lookup Tables</name>
+            <rules-root path="Tutorial8 - Introduction to Smart Rules and Smart Lookup Tables.xlsx"/>
+        </module>
+    </modules>
+    <openapi>
+        <path>openapi.json</path>
+        <mode>RECONCILIATION</mode>
+    </openapi>
+</project>
