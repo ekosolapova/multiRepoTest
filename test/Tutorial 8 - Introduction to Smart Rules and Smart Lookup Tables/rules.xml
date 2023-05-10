@@ -11,4 +11,22 @@
         <path>openapi.json</path>
         <mode>RECONCILIATION</mode>
     </openapi>
+    <dependencies>
+        <dependency>
+            <name>Example 1 - Bank Rating</name>
+            <autoIncluded>false</autoIncluded>
+        </dependency>
+        <dependency>
+            <name>Example 3 - Auto Policy Calculation</name>
+            <autoIncluded>true</autoIncluded>
+        </dependency>
+        <dependency>
+            <name>Example 3 - Auto Policy Calculation2</name>
+            <autoIncluded>true</autoIncluded>
+        </dependency>
+        <dependency>
+            <name>Tutorial 6 - Introduction to Spreadsheet Tables</name>
+            <autoIncluded>false</autoIncluded>
+        </dependency>
+    </dependencies>
 </project>
