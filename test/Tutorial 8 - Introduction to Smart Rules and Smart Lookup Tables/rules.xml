@@ -24,9 +24,5 @@
             <name>Example 3 - Auto Policy Calculation2</name>
             <autoIncluded>true</autoIncluded>
         </dependency>
-        <dependency>
-            <name>Tutorial 6 - Introduction to Spreadsheet Tables</name>
-            <autoIncluded>false</autoIncluded>
-        </dependency>
     </dependencies>
 </project>
