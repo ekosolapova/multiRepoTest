@@ -1,5 +1,6 @@
 <project>
-    <name>Example 3R3</name>
+    <name>Example 3R31</name>
+    <comment>1</comment>
     <modules>
         <module>
             <name>AutoPolicyCalculation</name>
