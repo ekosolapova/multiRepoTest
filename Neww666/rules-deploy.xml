@@ -1,7 +1,7 @@
 <rules-deploy>
     <isProvideRuntimeContext>true</isProvideRuntimeContext>
     <isProvideVariations>false</isProvideVariations>
-    <serviceName>ny4</serviceName>
+    <serviceName>ny4213423</serviceName>
     <publishers>
         <publisher>RESTFUL</publisher>
     </publishers>
