@@ -1,0 +1,24 @@
+<project>
+    <name>openapi1</name>
+    <modules>
+        <module>
+            <name>Algorithms1</name>
+            <rules-root path="rules/Algorithms1.xlsx"/>
+            <method-filter>
+                <includes>
+                    <value>.+ Hello\(.+\)</value>
+                </includes>
+            </method-filter>
+        </module>
+        <module>
+            <name>Models</name>
+            <rules-root path="rules/Models.xlsx"/>
+        </module>
+    </modules>
+    <openapi>
+        <path>openapi.json</path>
+        <model-module-name>Models</model-module-name>
+        <algorithm-module-name>Algorithms1</algorithm-module-name>
+        <mode>GENERATION</mode>
+    </openapi>
+</project>
