@@ -1,0 +1,17 @@
+<project>
+    <name>Example 3R3</name>
+    <modules>
+        <module>
+            <name>AutoPolicyCalculation</name>
+            <rules-root path="AutoPolicyCalculation.xlsx"/>
+        </module>
+        <module>
+            <name>AutoPolicyTests</name>
+            <rules-root path="AutoPolicyTests.xlsx"/>
+        </module>
+    </modules>
+    <openapi>
+        <path>openapi.json</path>
+        <mode>RECONCILIATION</mode>
+    </openapi>
+</project>
