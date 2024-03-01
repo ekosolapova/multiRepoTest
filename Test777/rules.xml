@@ -1,0 +1,10 @@
+<project>
+    <name>Test777</name>
+    <comment>tewst</comment>
+    <modules>
+        <module>
+            <name>Bank Rating</name>
+            <rules-root path="Bank Rating.xlsx"/>
+        </module>
+    </modules>
+</project>
