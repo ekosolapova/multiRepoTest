@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Build-Date: 2025-02-17T15:32:07.4747592+01:00
+Build-Date: 2025-02-17T15:32:38.8990822+01:00
 Created-By: OpenL Studio v.5.27.10-SNAPSHOT
 Implementation-Title: Tutorial 6 - Introduction to Spreadsheet Tables
 Build-Branch: master
